@@ -1,0 +1,11 @@
+#Unit Testing:
+1. Got 3 phases: Arrange -> Act -> Assert
+2. Arrange: Consists of the test subject i.e. the data or part which is to be tested. Since this is the phase of arranging all the necessary configuration for test	
+			It is known as "Arrange".
+			
+3. Act: Perform process or operations based on the Arrange phase e.g - Method call which will lead to creation of some result. "Act"-ing on the basis of all the arrangements
+		is called "Act".
+		
+4.Assert: In most testing scenarios there are two components present which are - expected result and original result. Expected as the name suggests is the result which is correct
+		  and acceptable form of data e.g- A method called Add which take 2 int as parameters returns correct sum for the same. Original refers to the result we obtain in "Act"
+		  phase. Comparing the results and if they are equal or as expected, "Assert" phase is completed.

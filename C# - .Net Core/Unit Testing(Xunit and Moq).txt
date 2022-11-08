@@ -9,3 +9,6 @@
 4.Assert: In most testing scenarios there are two components present which are - expected result and original result. Expected as the name suggests is the result which is correct
 		  and acceptable form of data e.g- A method called Add which take 2 int as parameters returns correct sum for the same. Original refers to the result we obtain in "Act"
 		  phase. Comparing the results and if they are equal or as expected, "Assert" phase is completed.
+
+
+#Asserting different types of results,objects, exceptions etc
